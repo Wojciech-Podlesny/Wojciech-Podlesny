@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a passionate Frontend Developer dedicated to crafting dynamic user experiences. Let's build something amazing together.
+I'm a passionate Frontend Developer dedicated to crafting dynamic user experiences.
 
 * 🌍  I'm based in Rzeszów, Poland
-* 🧠  I'm learning I’m currently mastering React with TypeScript on as my daily job with all related advanced topics
+* 🧠  I'm learning I'm focusing on React and NextJS
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.
 
 ### Skills

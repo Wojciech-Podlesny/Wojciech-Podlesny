@@ -22,14 +22,12 @@ I'm a passionate Frontend Developer dedicated to crafting dynamic user experienc
 
 ## My open source projects
 ### URL Shortener
-This is my first application URL Shortener App. Technologies used in the project React, TypeScript, CSS, Vite,TinyURL API.
+This is my first application URL Shortener App.
 
-Features:
--The user can view the optimal layout for the page for most used widths (more details below)
--The user can shorten any valid URL to https://tinyurl.com/2s4abc2x, where 2s4abc2x is 8 chars path that is -randomly created for each link
--The array of shortened URLs is stored in the local storage so that the user can view previously shortened URLs
--The user can delete the shortened link from the array in local storage
--The user can copy the shortened link to their clipboard in a single click
--The user receives an error message when the form is submitted if: the input field is empty, the provided input is not a link
+Technologies Used:
+- TypeScript
+- React
+- Vite
+- TinyURL API
 
 Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)

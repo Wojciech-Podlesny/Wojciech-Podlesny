@@ -31,3 +31,14 @@ Technologies Used:
 - TinyURL API
 
 Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)
+
+### Weather App
+This is application Weather App.
+
+Technologies Used:
+- TypeScript
+- React
+- Tailwind CSS
+- WeatherApi API
+
+Live demo: [Weather App](https://weather-app-xs.vercel.app/)

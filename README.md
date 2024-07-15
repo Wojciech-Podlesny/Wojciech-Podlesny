@@ -33,7 +33,7 @@ Technologies Used:
 Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)
 
 ### Weather App
-This is application Weather App.
+This is application Weather App.Application in progress.
 
 Technologies Used:
 - TypeScript

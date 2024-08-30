@@ -38,7 +38,8 @@ This is application Weather App.Application in progress.
 Technologies Used:
 - TypeScript
 - React
-- Tailwind CSS
+- Tailwind CS
+- Chart.js
 - WeatherApi API
 
 Live demo: [Weather App](https://weather-app-xs.vercel.app/)

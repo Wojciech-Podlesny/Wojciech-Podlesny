@@ -38,7 +38,7 @@ This is application Weather App.Application in progress.
 Technologies Used:
 - TypeScript
 - React
-- Tailwind CS
+- Tailwind CSS
 - Chart.js
 - WeatherApi API
 

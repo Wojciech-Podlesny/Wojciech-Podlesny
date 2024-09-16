@@ -41,6 +41,8 @@ Technologies Used:
 - React
 - Tailwind CSS
 - Chart.js
+- Jest
+- React Testing Library
 - WeatherApi API
 
 Live demo: [Weather App](https://weather-app-xs.vercel.app/)

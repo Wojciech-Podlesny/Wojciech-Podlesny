@@ -28,6 +28,7 @@ Technologies Used:
 - TypeScript
 - React
 - Vite
+- Cypress
 - TinyURL API
 
 Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)

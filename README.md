@@ -43,6 +43,7 @@ Technologies Used:
 - Chart.js
 - Jest
 - React Testing Library
+- Playwright
 - WeatherApi API
 
 Live demo: [Weather App](https://weather-app-xs.vercel.app/)

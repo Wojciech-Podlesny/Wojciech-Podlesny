@@ -22,7 +22,7 @@ I'm a passionate Frontend Developer dedicated to crafting dynamic user experienc
 
 ## Projects
 ### URL Shortener
-This is my first application URL Shortener App.
+This application is a URL shortener, allowing you to create short and concise aliases for long web links.
 
 Technologies Used:
 - TypeScript
@@ -34,7 +34,7 @@ Technologies Used:
 Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)
 
 ### Weather App
-This is application Weather App.Application in progress.
+The Weather App is an application currently under development, designed to provide users with up-to-date weather information.
 
 Technologies Used:
 - TypeScript

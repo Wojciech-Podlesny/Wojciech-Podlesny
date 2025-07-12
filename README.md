@@ -19,17 +19,17 @@ I'm a passionate Frontend Developer dedicated to crafting dynamic user experienc
 <p align="left"> <a href="https://www.github.com/wojciech-podlesny" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wojciech-podlesny" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ## Projects
-### URL Shortener
+### Movie Stream Dashboard - Working progress
 This application is a URL shortener, allowing you to create short and concise aliases for long web links.
 
 Technologies Used:
-- TypeScript
-- React
-- Vite
-- Cypress
-- TinyURL API
-
-Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)
+- Next.js
+- Typescript
+- Redux
+- Firebase
+- Material UI
+- Styled-Components
+- TMDB API
 
 ### Weather App
 The Weather App is an application currently under development, designed to provide users with up-to-date weather information.
@@ -45,3 +45,18 @@ Technologies Used:
 - WeatherApi API
 
 Live demo: [Weather App](https://weather-app-xs.vercel.app/)
+
+### URL Shortener
+This application is a URL shortener, allowing you to create short and concise aliases for long web links.
+
+Technologies Used:
+- TypeScript
+- React
+- Vite
+- Cypress
+- TinyURL API
+
+Live demo: [URL Shortener](https://url-shortener-apps.netlify.app/)
+
+
+

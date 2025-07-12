@@ -20,7 +20,8 @@ I'm a passionate Frontend Developer dedicated to crafting dynamic user experienc
 
 ## Projects
 ### Movie Stream Dashboard - Working progress
-This application is a URL shortener, allowing you to create short and concise aliases for long web links.
+Movie streaming dashboard showcasing trending and popular movies with user-friendly UI components and real-time data from The Movie Database API.
+
 
 Technologies Used:
 - Next.js

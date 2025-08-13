@@ -32,6 +32,8 @@ Technologies Used:
 - Styled-Components
 - TMDB API
 
+Live demo: [Movie-Stram-Dashboard](https://movie-stream-dashboard.vercel.app/)
+
 ### Weather App
 The Weather App is an application currently under development, designed to provide users with up-to-date weather information.
 

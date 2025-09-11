@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer dedicated to crafting dynamic user experienc
 
 * 🌍  I'm based in Katowice, Poland
 * 🧠  I'm focusing on React and NextJS
-*   See my portfolio at [WojciechPodleśny](https://wojciechpodlesny.pl)
+*   See my portfolio at [Wojciech Podleśny](https://wojciechpodlesny.pl)
 *   * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.
 
 ### Skills

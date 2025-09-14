@@ -7,7 +7,8 @@ Frontend Developer
 I'm a passionate Frontend Developer dedicated to crafting dynamic user experiences.
 
 * 🌍  I'm based in Katowice, Poland
-* 🧠  I'm focusing on React and NextJS
+* 🧠  I’m currently mastering React and Next.js.
+* 🧠   Next i'm focusing on Nest.js and Python
 * 🌍  See my portfolio at [Wojciech Podleśny](https://wojciechpodlesny.pl)
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.
 
